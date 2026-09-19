@@ -63,8 +63,8 @@ While multiple models achieved perfect accuracy, **Logistic Regression** was sel
 Passionate about sustainable solutions and optimizing energy systems. I love turning raw data into actionable insights and am always eager to apply data science and engineering principles to real-world energy challenges!
 
 🔗 **Let's Connect:**
-*   [LinkedIn](#) *https://www.linkedin.com/in/micheal-ojoawo/*
-*   [GitHub](#) *https://github.com/micheal15-0*
-*   ✉️ Email: *ojoawo-mic@upf.ac.ma*
+*   **LinkedIn :** *https://www.linkedin.com/in/micheal-ojoawo/*
+*   **GitHub :** *https://github.com/micheal15-0*
+*   **✉️ Email:** *ojoawo-mic@upf.ac.ma*
 
 ---
